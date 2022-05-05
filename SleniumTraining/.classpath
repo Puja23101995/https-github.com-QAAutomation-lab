@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/selimium/Slenium Training/jars/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="E:/selimium/Slenium Training/jars/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/selimium/Slenium Training/jars/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="E:/selimium/Slenium Training/jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/selimium/Slenium Training/jars/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="E:/selimium/Slenium Training/jars/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/selimium/Slenium Training/jars/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/sel123/2242022/bcpkix-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/sel123/2242022/bcprov-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/sel123/2242022/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/sel123/2242022/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/sel123/2242022/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/sel123/2242022/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/sel123/2242022/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/sel123/2242022/docker-java-3.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/sel123/2242022/docker-java-api-3.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/sel123/2242022/docker-java-core-3.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/sel123/2242022/docker-java-transport-3.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/sel123/2242022/docker-java-transport-httpclient5-3.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/sel123/2242022/gson-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/sel123/2242022/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/sel123/2242022/httpclient5-5.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/sel123/2242022/httpcore5-5.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/sel123/2242022/httpcore5-h2-5.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/sel123/2242022/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/sel123/2242022/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/sel123/2242022/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/sel123/2242022/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/sel123/2242022/jna-5.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/sel123/2242022/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/sel123/2242022/webdrivermanager-5.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
